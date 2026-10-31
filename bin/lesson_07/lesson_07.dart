@@ -4,6 +4,8 @@ import 'interfaces.dart';
 import 'mixins.dart';
 
 void main() {
+  // Start of program
+
   Dog dog = Dog(2, 'black');
   // dog.draw();
   // dog.jump();
